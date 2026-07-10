@@ -1,0 +1,6 @@
+{
+  "name": "UrbanNest Realty",
+  "description": "A premium, modern, responsive real estate website serving local and international clients with luxury, trust, and professional guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
